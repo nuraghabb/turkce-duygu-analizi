@@ -1,0 +1,3 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+bert_duygu_modeli/** filter=lfs diff=lfs merge=lfs -text
